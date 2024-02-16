@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vardan </h1>
 <h3 align="center">20 years old Junior DevOps engineer with 4 months of experience</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c9/c3/69/c9c3699f5b14ead1452b09d35284a3e8.jpg"
 - 🔭 I’m currently working on **EmotionalView**
 
 - 🌱 I’m currently learning **PostgreSQL DB**
@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/Legendary_Sock" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40"/> </a>
+<a href="https://discord.gg/legendary0sock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="legendary0sock" height="30" width="40" /></a>
+
 </p>
 
 
