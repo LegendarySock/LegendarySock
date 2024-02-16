@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LegendarySock</h1>
+<h1 align="center">Hi 👋, I'm Vardan </h1>
 <h3 align="center">20 years old Junior DevOps engineer with 4 months of experience</h3>
 
 - 🔭 I’m currently working on **EmotionalView**
