@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vardan </h1>
 <h3 align="center">20 years old Junior DevOps engineer with 4 months of experience</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c9/c3/69/c9c3699f5b14ead1452b09d35284a3e8.jpg"
 - 🔭 I’m currently working on **EmotionalView**
 
 - 🌱 I’m currently learning **PostgreSQL DB**
