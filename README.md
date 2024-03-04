@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vardan </h1>
-<h3 align="center">20 years old Junior DevOps engineer with 4 months of experience</h3>
+<h3 align="center">19 years old Junior DevOps engineer with 6 months of experience</h3>
 
 - 🔭 I’m currently working on **EmotionalView**
 
